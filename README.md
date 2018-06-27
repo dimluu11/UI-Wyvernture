@@ -1,2 +1,3 @@
 # UI-Wyvernture
-UI prototype menggunakan Adobe XD
+UI prototype aplikasi jalan2 di mobile/handphone menggunakan Adobe XD
+
